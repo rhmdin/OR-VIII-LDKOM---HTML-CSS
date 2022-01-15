@@ -1,0 +1,55 @@
+body{
+    background-color: #ffe8bd;
+}
+hr{
+    border: 1px solid maroon;
+}
+h1, h3, h6{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: maroon;
+}
+table, th, td{
+    margin-top: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    position: center;
+    border: 2px solid green ;
+    padding: 10px;
+}
+
+th{
+    color: rgb(0, 0, 0);
+    background-color: #c1ffc1;
+}
+td{
+    background-color: white;
+    font-family: 'Lucida Sans';
+}
+button{
+    padding: 1%;
+    background-color: #c1ffc1;
+    border-radius: 5%;
+    border-color: maroon;
+    font-size: 12pt;
+    font-family: Comic Sans;
+}
+p{
+    margin: auto;
+    margin-top: 1cm;
+    text-align: center;
+}
+img{
+    margin: auto;
+    width: 5cm;
+    border-radius: 5%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+form, input, label{
+    text-align: center;
+    padding: 0.5%;
+}
+
